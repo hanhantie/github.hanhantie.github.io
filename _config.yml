@@ -15,9 +15,9 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: github_hanhantie/github_hanhantie.github.io
-github_url: https://github.com/github_hanhantie
-url: https://github_hanhantie.github.io
+repository: hanhantie/github_hanhantie.github.io
+github_url: https://github.com/hanhantie
+url: https://hanhantie.github.io
 
 ## Gem
 plugins:
